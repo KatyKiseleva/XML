@@ -1,3 +1,12 @@
 
-?????
-xb
+<bag_report>
+ <bug_id>1234</bug_id>
+ <title>SendEmail button return options not related to sending Email</title>
+ <severity>minor</severity>
+ <priority>low</priority>
+ <environment>Samsung Galaxy S9+,Android 10</environment>
+ <str1>open the APP</str1>
+ <str2>tap “Send Email” button</str2>
+ <ar>parameters "Height"(H) and "Width"(W) are set to "0"</ar>
+ <er>the parameters "Height" (H) and "Width" (W) are in values in relation to the screen resolution settings that the user has set</er>
+</bag_report>
